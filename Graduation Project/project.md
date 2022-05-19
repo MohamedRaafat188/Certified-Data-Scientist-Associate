@@ -1,0 +1,1 @@
+You can find the whole implementation of the project [here](https://github.com/MohamedRaafat188/Diabetes-Detection-Project)
